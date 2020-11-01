@@ -9,7 +9,7 @@
     "ImagePath": "https://productionappstorage-f3b9.kxcdn.com/6040/responsive-images/Yk4uSDzrfxqLp6kXMYWzAhIcZV6mVtHvGaskPcLl___thumbnail_644_301.jpg",
     "VideoPath": "https://productionappstorage-f3b9.kxcdn.com/6041/conversions/ApOn0rY8Og2OhRQHoekaHyZEz6mVOd4yf2AdHWXl.mp4",
     "ProcessName": "ArizonaSunshine.exe",
-    "Categories": "Action, Shooter, Horror"
+    "Categories": "Action, Shooter, Horror,Multiplayer"
   },
   {
     "Name": "Elven Assassin",
@@ -48,16 +48,16 @@
     "Categories": "Action, Shooter, Puzzle"
   },
   {
-    "Name": "4D Minesweeper",
+    "Name": "Dreadhalls",
     "Assigned To": "Chuang",
-    "ID": 787980,
-    "ShortDesc": "Minesweeper",
-    "LongDesc": "Minesweeper game",
-    "WebsiteUrl": "https://store.steampowered.com/app/787980/4D_Minesweeper/",
-    "ImagePath": "https://cdn.cloudflare.steamstatic.com/steam/apps/787980/header.jpg?t=1596143500",
-    "VideoPath": "",
-    "ProcessName": "4D Minesweeper 64.exe",
-    "Categories": "None"
+    "ID": 589200,
+    "ShortDesc": "Haunted House",
+    "LongDesc": "",
+    "WebsiteUrl": "https://springboardvr.com/marketplace/dreadhalls",
+    "ImagePath": "https://productionappstorage-f3b9.kxcdn.com/17331/responsive-images/DreadHallsCoverArt02small_533x300___thumbnail_769_359.png",
+    "VideoPath": "https://productionappstorage-f3b9.kxcdn.com/17364/conversions/trailer_dreadhalls.webm",
+    "ProcessName": "Dreadhalls.exe",
+    "Categories": "Horror"
   },
   {
     "Name": "Richie's Plank Experience",
